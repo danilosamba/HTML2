@@ -150,6 +150,7 @@ ul{
     cursor: pointer;
 }
 
+
 .input-checkbox:checked + .checkbox-customizado {
     background-color: var(--preto); /* Cor quando o checkbox estiver marcado */
 }
@@ -158,11 +159,6 @@ ul{
     display: flex;
     align-items: center; /* Alinha verticalmente o checkbox e o texto */
     gap: 10px; /* Espaço entre o checkbox e o texto */
-}
-
-.checked{
-    background-color: var(--preto);
-    position: relative;
 }
 
 /*marcado*/
