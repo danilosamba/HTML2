@@ -1,5 +1,5 @@
 
-![Banner-Titulo](https://imgur.com/hPolW9Q)
+![Banner-Titulo](https://i.imgur.com/hPolW9Q.png)
 
 # Titulo do projeto
 
